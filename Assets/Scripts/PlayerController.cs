@@ -4,7 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     public GameObject visuals;
     private CharacterController characterController;
-    public float speed = 6.0f;
+    public float speed = 10.0f;
     public float gravity = -9.81f;
     private Vector3 velocity;
 
